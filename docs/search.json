@@ -2781,7 +2781,7 @@
     "href": "folien/md-09-quarto.html#markdown-tabellen",
     "title": "Erstellung von Berichten und Folien mit Quarto",
     "section": "Markdown Tabellen",
-    "text": "Markdown Tabellen\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\n\n\n\n\n\nVerwende den visuellen Editor-Modus (Visual editor)\n\n\nFür das Hinzufügen von Fussnoten wird der visuelle Editor-Modus empfohlen.\n\n\n\n\nAusgabe:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+    "text": "Markdown Tabellen\nMarkdown:\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\n\n\n\n\n\n\nVerwende den visuellen Editor-Modus (Visual editor)\n\n\nFür das Hinzufügen von Markdown Tabellen wird der visuelle Editor-Modus empfohlen.\n\n\n\n\nAusgabe:\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
   },
   {
     "objectID": "folien/md-09-quarto.html#tabellen-mit-code",
