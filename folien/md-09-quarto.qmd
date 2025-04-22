@@ -362,7 +362,7 @@ Es gibt verschiedene Arten von "Links" oder Hyperlinks.
 **Markdown**
 
 ``` markdown
-Du kannst [benannte Hyperlinks] (https://quarto.org/),
+Du kannst [benannte Hyperlinks](https://quarto.org/),
 direkte URLs wie <https://quarto.org/> und Links zu 
 [anderen Orten](#quarto-anatomy) in 
 das Dokument einbetten. Die Syntax für das Einbetten eines
@@ -373,7 +373,7 @@ Inline-Bildes ist ähnlich: ![Pinguine spielen mit Ball](img/md-09/penguins-quar
 ::: {.column .fragment width="30%"}
 **Ausgabe**
 
-Du kannst [benannte Hyperlinks] (https://quarto.org/),
+Du kannst [benannte Hyperlinks](https://quarto.org/),
 direkte URLs wie <https://quarto.org/> und Links zu [anderen Orten](#quarto-anatomie) in  das Dokument einbetten. Die Syntax für das Einbetten eines Inline-Bildes ist ähnlich: ![Pinguine spielen mit Ball](img/md-09/penguins-quarto-ball.png){style="width:250px;"}.
 :::
 :::

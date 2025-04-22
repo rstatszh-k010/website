@@ -2704,7 +2704,7 @@
     "href": "folien/md-09-quarto.html#links",
     "title": "Erstellung von Berichten und Folien mit Quarto",
     "section": "Links",
-    "text": "Links\nEs gibt verschiedene Arten von “Links” oder Hyperlinks.\n\n\nMarkdown\nDu kannst [benannte Hyperlinks] (https://quarto.org/),\ndirekte URLs wie &lt;https://quarto.org/&gt; und Links zu \n[anderen Orten](#quarto-anatomy) in \ndas Dokument einbetten. Die Syntax für das Einbetten eines\nInline-Bildes ist ähnlich: ![Pinguine spielen mit Ball](img/md-09/penguins-quarto-ball.png).\n\nAusgabe\nDu kannst [benannte Hyperlinks] (https://quarto.org/), direkte URLs wie https://quarto.org/ und Links zu anderen Orten in das Dokument einbetten. Die Syntax für das Einbetten eines Inline-Bildes ist ähnlich: ."
+    "text": "Links\nEs gibt verschiedene Arten von “Links” oder Hyperlinks.\n\n\nMarkdown\nDu kannst [benannte Hyperlinks](https://quarto.org/),\ndirekte URLs wie &lt;https://quarto.org/&gt; und Links zu \n[anderen Orten](#quarto-anatomy) in \ndas Dokument einbetten. Die Syntax für das Einbetten eines\nInline-Bildes ist ähnlich: ![Pinguine spielen mit Ball](img/md-09/penguins-quarto-ball.png).\n\nAusgabe\nDu kannst benannte Hyperlinks, direkte URLs wie https://quarto.org/ und Links zu anderen Orten in das Dokument einbetten. Die Syntax für das Einbetten eines Inline-Bildes ist ähnlich: ."
   },
   {
     "objectID": "folien/md-09-quarto.html#listen",
