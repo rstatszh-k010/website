@@ -230,7 +230,7 @@ lernende_ktzh |>
 ::: task
 1.  Öffne [posit.cloud](https://posit.cloud) in deinem Browser (verwende dein Lesezeichen).
 2.  Öffne den rstatszh-k010 Arbeitsbereich (Workspace) für den Kurs.
-3.  Klicke auf [Start]{.highlight-yellow} neben [md-09-uebungen]{.highlight-yellow}.
+3.  Klicke auf [Start]{.highlight-yellow} neben [md-10-uebungen]{.highlight-yellow}.
 4.  Suche im Dateimanager im Fenster unten rechts die Datei [`01-funktionen.qmd`]{.highlight-yellow} und klicke darauf, um sie im Fenster oben links zu öffnen.
 5. Verwende den [Quelltexteditor (Source editor)]{.highlight-yellow} Modus
 6.  Folge den Anweisungen in der Datei.
@@ -351,14 +351,6 @@ quarto publish quarto-pub
 
 -   Erhalte eine `_publish.yml`, die sicher in die Versionskontrolle geschickt werden kann.
 
-## Andere Dienste
-
--   Posit Connect
--   Netlify
--   Confluence
--   [Noch mehr Dienste](https://quarto.org/docs/publishing/other.html)
-
-
 # Wie geht's weiter? {background-color="#4C326A"}
 
 ## Abschlussprojekt
@@ -373,15 +365,17 @@ quarto publish quarto-pub
 
 ## Abschlussveranstaltung
 
-- 2024-12-17
-- 15:00 bis 15:30 / 16:00 Uhr
+- 2024-05-20
+- 13:30 bis 15:00
 - MS Teams
+- Jede:r Teilnehmer:in stellt das Projekt vor (7 Minuten)
+- Ich teile eine Liste für die Zeiten
 
 ## Raus aus Posit Cloud
 
 - Die Inhalte verschwinden nicht
 - Ihr könnt vorerst die Cloud auch weiter nutzen
-- Schritt für Schritt Software über den DAP selbst intallieren
+- Schritt für Schritt Software über den DAP selbst installieren
 
 ```{r}
 #| eval: false
@@ -445,16 +439,13 @@ Die folgenden Übergeordneten Lernziele sind für diesen Kurs definiert:
 countdown(minutes = 5)
 ```
 
-## Bitte ausfüllen 
+- Bitte ausfüllen: <https://forms.gle/VawjvR946LDGDPza7>
 
-- <https://forms.gle/tKf16kWzhNmEogU16>
-
-![](img/md-10/feedback-form.png)
 
 ## Wie es für mich weiter geht
 
 1. **Beratung:** Projektbezogener Support, Code Review, Coaching
-2. **rstatsZH Kursleitung:** Info über den 10. Kurs verbreiten. Start: 25.02.2025
+2. **rstatsZH Kursleitung:** Info über den 11. Kurs verbreiten. Start: 25.09.2025 (<https://rstats.zuerich/>)
 3. **Kurse zu vertiefenden Themen:** Entwicklung von 3-Stunden Workshops 
 
 ## Zeitpuffer: Modul 10 {.smaller}
@@ -482,8 +473,7 @@ countdown(5)
 
 ## Zusatzaufgaben Abgabedatum
 
--   Abgabedatum: [Montag, 02. Dezember]{.highlight-yellow}
--   Korrektur- und Feedbackphase bis zu: Donnerstag, 05. Dezember 
+-   Abgabedatum: [Montag, 05. Mai]{.highlight-yellow}
 
 # Danke {background-color="#4C326A"}
 
